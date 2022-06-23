@@ -5,6 +5,7 @@ Deep learning project using Tensorflow
 - 작물병해 진단: https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset?resource=download
 - 작물병해 진단: https://dacon.io/competitions/official/235870/overview/description
 - 생육환경 최적화(청경채/적상추): https://dacon.io/competitions/official/235897/overview/description
+- 100종의 스포츠 이미지 분류 : https://www.kaggle.com/datasets/gpiosenka/sports-classification
 
 2. 일정
 <table style="border:1px solid black;margin-left:auto;margin-right:auto;">
